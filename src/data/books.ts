@@ -110,7 +110,7 @@ export const books: Book[] = [
     id: '9',
     title: 'The Silent Patient',
     author: 'Alex Michaelides',
-    description: 'A shocking psychological thriller of a woman's act of violence against her husband.',
+    description: "A shocking psychological thriller of a woman's act of violence against her husband.",
     coverImage: 'https://images.unsplash.com/photo-1614332287897-cdc485fa562d?q=80&w=800&auto=format&fit=crop',
     category: 'Thriller',
     isBorrowable: true,
